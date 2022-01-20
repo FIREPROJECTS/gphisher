@@ -36,7 +36,7 @@ It only demonstrates "how phishing works". <b>You shall not misuse the informati
 
 ### Find Telegram Token & User id
 - Create telegram bot By <a href="https://t.me/botfather" target="_blank"><img src="https://img.shields.io/badge/Telegram-BotFather-blue?style=for-the-badge&logo=Telegram"></a>
-- Start Rose Bot <a href="https://t.me/missrose_bot" target="_blank"><img src="https://img.shields.io/badge/Telegram-Miss Rose-bluestyle=social&logo=Telegram"></a>
+- Start Rose Bot <a href="https://t.me/missrose_bot" target="_blank"><img src="https://img.shields.io/badge/Telegram-Miss Rose-blue?style=social&logo=Telegram"></a>
 - Type ```/id``` on Rose Bot
 - Copy Bot-Token & User Id
 ##
