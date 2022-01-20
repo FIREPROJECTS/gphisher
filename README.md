@@ -32,7 +32,13 @@
 <b>This Tool is made for educational purposes only</b>. Do not attempt to violate the law with anything contained here. <b>If this is your intention, then Get the hell out of here</b>!
 
 It only demonstrates "how phishing works". <b>You shall not misuse the information to gain unauthorized access to someones social media</b>. However you may try out this at your own risk.</i>
+##
 
+### Find Telegram Token & User id
+- Create telegram bot By <a href="https://t.me/botfather" target="_blank"><img src="https://img.shields.io/badgeTelegram-BotFather-blue?style=for-the-badge&logo=telegram"></a>
+- Start Rose Bot <a href="https://t.me/missrose_bot" target="_blank"><img src="https://img.shields.io/badgeTelegram-BotFather-blue?style=for-the-badge&logo=telegram"></a>
+- Type ```/id``` on Rose Bot
+- Copy Bot-Token & User Id
 ##
 
 ### Features
