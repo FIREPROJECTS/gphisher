@@ -16,7 +16,7 @@
 <p align="center">
   <img src="https://img.shields.io/badge/Author-FIREPROJECTS-cyan?style=flat-square">
   <img src="https://img.shields.io/badge/Project%20By-HTR--Tech-cyan?style=flat-square">
-  <img src="https://img.shields.io/badge/Written%20In-Script-Shell-cyan?style=flat-square">
+  <img src="https://img.shields.io/badge/Written%20In-ScriptShell-cyan?style=flat-square">
 </p>
 
 <p align="center>Automated phishing tool with 6+ Games, 10+ Template.</p>
