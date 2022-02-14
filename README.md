@@ -23,7 +23,7 @@
 
 ##
 
-## Disclaimer
+<p align="Center">Disclaimer<b></b></p>
 
 <i>Any actions and or related to <b>Gphisher</b> is solely your responsibility. The misuse of this toolkit can result in <b>criminal charges</b> brought against the persons in question. <b>The contributors will not be held responsible</b> in the event any criminal charges be brought against any individuals misusing this toolkit to break the law.
 
