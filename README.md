@@ -1,7 +1,7 @@
 <!-- Gphisher -->
 
 <p align="center">
-  <img src=".imgs/logo.png">
+  <img src=".imgs/logo.gif">
 </p>
 
 <p align="center">
